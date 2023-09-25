@@ -1,4 +1,4 @@
-function User () {
+function User (props) {
     return (
         <span className="user">
             <span className="name">{props.tweet.user.name}</span>

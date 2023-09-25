@@ -1,4 +1,4 @@
-function ProfilePicture () {
+function ProfilePicture (props) {
     return (
         <img
         src={props.tweet.user.image}

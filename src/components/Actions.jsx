@@ -1,4 +1,4 @@
-function Actions () {
+function Actions (props) {
     return (
         <div className="actions">
           {/* Font Awesome icons */}
